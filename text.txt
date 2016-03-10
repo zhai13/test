@@ -1,3 +1,6 @@
 add some thing......
+<<<<<<< HEAD
 hellow word
 我试一试能不能写汉字
+
+heheh
